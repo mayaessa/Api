@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mayaessa/Api.git/static/css/main.3b71cc2a.css",
-    "main.js": "/mayaessa/Api.git/static/js/main.45d73784.js",
-    "static/js/453.6b79ea19.chunk.js": "/mayaessa/Api.git/static/js/453.6b79ea19.chunk.js",
-    "index.html": "/mayaessa/Api.git/index.html",
-    "main.3b71cc2a.css.map": "/mayaessa/Api.git/static/css/main.3b71cc2a.css.map",
-    "main.45d73784.js.map": "/mayaessa/Api.git/static/js/main.45d73784.js.map",
-    "453.6b79ea19.chunk.js.map": "/mayaessa/Api.git/static/js/453.6b79ea19.chunk.js.map"
+    "main.css": "/mayaessa/Api.git/crudoperation/static/css/main.3b71cc2a.css",
+    "main.js": "/mayaessa/Api.git/crudoperation/static/js/main.08c7c807.js",
+    "static/js/453.6b79ea19.chunk.js": "/mayaessa/Api.git/crudoperation/static/js/453.6b79ea19.chunk.js",
+    "index.html": "/mayaessa/Api.git/crudoperation/index.html",
+    "main.3b71cc2a.css.map": "/mayaessa/Api.git/crudoperation/static/css/main.3b71cc2a.css.map",
+    "main.08c7c807.js.map": "/mayaessa/Api.git/crudoperation/static/js/main.08c7c807.js.map",
+    "453.6b79ea19.chunk.js.map": "/mayaessa/Api.git/crudoperation/static/js/453.6b79ea19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b71cc2a.css",
-    "static/js/main.45d73784.js"
+    "static/js/main.08c7c807.js"
   ]
 }
