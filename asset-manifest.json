@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mayaessa/Api.git/static/css/main.3b71cc2a.css",
+    "main.js": "/mayaessa/Api.git/static/js/main.45d73784.js",
+    "static/js/453.6b79ea19.chunk.js": "/mayaessa/Api.git/static/js/453.6b79ea19.chunk.js",
+    "index.html": "/mayaessa/Api.git/index.html",
+    "main.3b71cc2a.css.map": "/mayaessa/Api.git/static/css/main.3b71cc2a.css.map",
+    "main.45d73784.js.map": "/mayaessa/Api.git/static/js/main.45d73784.js.map",
+    "453.6b79ea19.chunk.js.map": "/mayaessa/Api.git/static/js/453.6b79ea19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.45d73784.js"
+  ]
+}
